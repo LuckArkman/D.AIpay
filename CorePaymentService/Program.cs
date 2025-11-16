@@ -70,15 +70,13 @@ apiV1.MapPost("/card", async (CardPaymentRequest req, IDbConnection db, IHttpCli
     return Results.Accepted($"/api/v1/payments/{payment.Id}", new { PaymentId = payment.Id, Status = payment.Status });
 });
 
-// ... (Restante dos endpoints)
-
 app.Run();
 
 void PublishEvent(IConfiguration config, string routingKey, object payload)
 {
     var factory = new ConnectionFactory() { HostName = config["MessageBroker:Host"] };
     using var connection = factory.CreateConnection();
-    using var channel = connection.CreateModel(); 
+    using var channel = connection.CreateModel();
     
     channel.ExchangeDeclare(exchange: "payment_events", type: ExchangeType.Topic);
     var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(payload));

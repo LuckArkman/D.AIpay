@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoAdapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b87d797949a7b14228cf9d5c6d3b56af9aecd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8529f591b96fc00bd4616cdfccaab8fdd4a1e52a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoAdapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoAdapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
