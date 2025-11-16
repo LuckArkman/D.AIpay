@@ -1,7 +1,14 @@
 using ReconciliationService;
 
-var builder = Host.CreateApplicationBuilder(args);
-builder.Services.AddHostedService<Worker>();
+IHost host = Host.CreateDefaultBuilder(args)
+    .ConfigureServices(services =>
+    {
+        // Registra nosso downloader simulado
+        services.AddSingleton<IDataDownloader, SimulatedDataDownloader>();
+        
+        // Registra o worker principal
+        services.AddHostedService<ReconciliationWorker>();
+    })
+    .Build();
 
-var host = builder.Build();
 host.Run();

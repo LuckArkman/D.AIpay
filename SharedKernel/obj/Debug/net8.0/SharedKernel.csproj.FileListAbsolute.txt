@@ -1,0 +1,12 @@
+/home/mplopes/Documentos/D.AIpay/SharedKernel/bin/Debug/net8.0/SharedKernel.deps.json
+/home/mplopes/Documentos/D.AIpay/SharedKernel/bin/Debug/net8.0/SharedKernel.dll
+/home/mplopes/Documentos/D.AIpay/SharedKernel/bin/Debug/net8.0/SharedKernel.pdb
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.AssemblyInfoInputs.cache
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.AssemblyInfo.cs
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.csproj.CoreCompileInputs.cache
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.sourcelink.json
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.dll
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/refint/SharedKernel.dll
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/SharedKernel.pdb
+/home/mplopes/Documentos/D.AIpay/SharedKernel/obj/Debug/net8.0/ref/SharedKernel.dll

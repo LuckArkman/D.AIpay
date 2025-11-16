@@ -6,4 +6,26 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="Dapper">
+        <HintPath>..\..\..\.nuget\packages\dapper\2.1.66\lib\net8.0\Dapper.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.Extensions.Hosting.Abstractions">
+        <HintPath>..\..\..\.nuget\packages\microsoft.aspnetcore.app.ref\8.0.16\ref\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+        <HintPath>..\..\..\.nuget\packages\microsoft.aspnetcore.app.ref\8.0.16\ref\net8.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Npgsql" Version="8.0.0" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.0" />
+      <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="init.sql" />
+    </ItemGroup>
+
 </Project>

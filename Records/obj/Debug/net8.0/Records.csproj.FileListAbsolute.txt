@@ -1,0 +1,12 @@
+/home/mplopes/Documentos/D.AIpay/Records/bin/Debug/net8.0/Records.deps.json
+/home/mplopes/Documentos/D.AIpay/Records/bin/Debug/net8.0/Records.dll
+/home/mplopes/Documentos/D.AIpay/Records/bin/Debug/net8.0/Records.pdb
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.GeneratedMSBuildEditorConfig.editorconfig
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.AssemblyInfoInputs.cache
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.AssemblyInfo.cs
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.csproj.CoreCompileInputs.cache
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.sourcelink.json
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.dll
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/refint/Records.dll
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/Records.pdb
+/home/mplopes/Documentos/D.AIpay/Records/obj/Debug/net8.0/ref/Records.dll

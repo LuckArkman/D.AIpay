@@ -9,5 +9,12 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1"/>
+        <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="CsvHelper">
+        <HintPath>..\..\..\.nuget\packages\csvhelper\33.1.0\lib\net8.0\CsvHelper.dll</HintPath>
+      </Reference>
     </ItemGroup>
 </Project>

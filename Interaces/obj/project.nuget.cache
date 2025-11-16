@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6MEpyaFiG4=",
+  "success": true,
+  "projectFilePath": "/home/mplopes/Documentos/D.AIpay/Interaces/Interaces.csproj",
+  "expectedPackageFiles": [
+    "/home/mplopes/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

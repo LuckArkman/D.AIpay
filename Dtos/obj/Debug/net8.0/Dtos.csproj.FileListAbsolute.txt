@@ -1,0 +1,16 @@
+/home/mplopes/Documentos/D.AIpay/Dtos/bin/Debug/net8.0/Dtos.deps.json
+/home/mplopes/Documentos/D.AIpay/Dtos/bin/Debug/net8.0/Dtos.dll
+/home/mplopes/Documentos/D.AIpay/Dtos/bin/Debug/net8.0/Dtos.pdb
+/home/mplopes/Documentos/D.AIpay/Dtos/bin/Debug/net8.0/Interaces.dll
+/home/mplopes/Documentos/D.AIpay/Dtos/bin/Debug/net8.0/Interaces.pdb
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.csproj.AssemblyReference.cache
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.AssemblyInfoInputs.cache
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.AssemblyInfo.cs
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.csproj.CoreCompileInputs.cache
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.sourcelink.json
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.csproj.Up2Date
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.dll
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/refint/Dtos.dll
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/Dtos.pdb
+/home/mplopes/Documentos/D.AIpay/Dtos/obj/Debug/net8.0/ref/Dtos.dll

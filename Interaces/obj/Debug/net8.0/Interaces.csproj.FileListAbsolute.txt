@@ -1,0 +1,12 @@
+/home/mplopes/Documentos/D.AIpay/Interaces/bin/Debug/net8.0/Interaces.deps.json
+/home/mplopes/Documentos/D.AIpay/Interaces/bin/Debug/net8.0/Interaces.dll
+/home/mplopes/Documentos/D.AIpay/Interaces/bin/Debug/net8.0/Interaces.pdb
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.AssemblyInfoInputs.cache
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.AssemblyInfo.cs
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.csproj.CoreCompileInputs.cache
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.sourcelink.json
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.dll
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/refint/Interaces.dll
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/Interaces.pdb
+/home/mplopes/Documentos/D.AIpay/Interaces/obj/Debug/net8.0/ref/Interaces.dll

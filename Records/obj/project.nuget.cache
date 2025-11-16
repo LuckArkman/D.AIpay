@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9f/v36y4mo=",
+  "success": true,
+  "projectFilePath": "/home/mplopes/Documentos/D.AIpay/Records/Records.csproj",
+  "expectedPackageFiles": [
+    "/home/mplopes/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
